@@ -27,10 +27,13 @@ brew "mas"
 brew "mongosh"
 brew "neovim"
 brew "netcat"
+brew "nvm"
+brew "pipenv"
 brew "postgresql"
+brew "pyenv"
+brew "rbenv"
 brew "rclone"
 brew "redis"
-brew "spaceship"
 brew "tfenv"
 brew "tgenv"
 brew "wget"
@@ -39,6 +42,9 @@ brew "zsh-completions"
 
 # 'mas install'
 mas "Amphetamine", id: 937984704
+mas "GarageBand", id: 682658836
+mas "iMovie", id: 408981434
+mas "Keynote", id: 409183694
 mas "Microsoft Remote Desktop", id: 1295203466
 mas "Numbers", id: 409203825
 mas "Pages", id: 409201541
